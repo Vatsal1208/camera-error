@@ -1,0 +1,2 @@
+# camera error
+ solve  it
